@@ -1,4 +1,4 @@
-# Project Name: My-First-Data-Analysis-Repo
+# Project Name: Power bi project-Repo
 
 ----
 # Project Objective: Problem Statement
