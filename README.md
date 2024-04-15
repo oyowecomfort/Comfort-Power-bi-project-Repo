@@ -18,6 +18,9 @@ The dataset is one single table with 30 columns and 26594 rows.
 ----
 # Findings/Recommendation
 
-From the analysis,  there are 151 Hospital and 638 surgeons  New York
+From the analysis,  there are 151 Hospital and 638 surgeons in the New York state-wide hospital 
 From the analysis it was observed that  In-patient cost  was  affected by the severity of the illness,  age and risk of mortality and the description of the illness. 
 It was also deduced that the Length of Stay by a patient is affected by  patient disposition,  diagnosis description and age of a patient.
+Conclusion
+
+The cost having medical treatment is expensive, it is recommended that Government should promote good by subsidizing medical fees and the elderly should be taken into consideration. 
